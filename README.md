@@ -3,14 +3,14 @@
 <center>
   <h1 align="center">BlockTheSpot</h1>
   <h4 align="center">A multi-purpose adblocker and skip bypass for the <strong>Windows</strong> Spotify Desktop Application.</h4>
-  <h5 align="center">Please support Spotify by purchasing premium</h5>
+  <h5 align="center"><strong>Please support Spotify by purchasing premium</strong></h5>
   <p align="center">
     <strong>Last updated:</strong> 3 June 2020<br>
     <strong>Last tested version:</strong> 1.1.34.694.gac68a2b3
   </p>
   <h4 align="center">Important!!</h4>
  * Do Windows Update/Patch<br>
- * Make sure you antivirus working and had latest virus signature<br>
+ * Make sure your antivirus is working and has the latest virus signature<br>
  * "chrome_elf.dll" gets replaced by Spotify Installer each time it updates, make sure to replace it again.<br>
 </center>
 
@@ -39,7 +39,6 @@ or
 * reinstall spotify
 
 #### Note:
-* Ads banner maybe appear if you network use 'Web Proxy Auto-Discovery Protocol'
-https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol
-set Skip_wpad in config.ini to 1 may help.
-* if automatic install/uninstall .bat not working please contact (https://github.com/rednek46)
+* Ads banner maybe appear if you network use '[Web Proxy Auto-Discovery Protocol](https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol)'
+    * set Skip_wpad in config.ini to 1 may help.
+* if automatic install/uninstall.bat not working please contact (https://github.com/rednek46)
